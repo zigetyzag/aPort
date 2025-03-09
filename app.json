@@ -1,0 +1,24 @@
+{
+  "name": "aPortApp",
+  "displayName": "aPortApp",
+  "expo": {
+    "name": "aPortApp",
+    "slug": "aPortApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.aPortApp"
+    },
+    "android": {
+      "package": "com.anonymous.aPortApp"
+    }
+  }
+}
